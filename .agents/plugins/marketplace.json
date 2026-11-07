@@ -1,0 +1,20 @@
+{
+  "name": "dale",
+  "interface": {
+    "displayName": "Dale"
+  },
+  "plugins": [
+    {
+      "name": "dale",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

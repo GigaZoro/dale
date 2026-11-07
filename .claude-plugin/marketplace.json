@@ -1,0 +1,14 @@
+{
+  "name": "dale",
+  "description": "GigaZoro's fork of Dale (lubluniky/dale), synced weekly.",
+  "owner": {
+    "name": "GigaZoro"
+  },
+  "plugins": [
+    {
+      "name": "dale",
+      "source": "./",
+      "description": "Dale skills: brainstorm, graph, lenses, index, max, proof, visualize, loops."
+    }
+  ]
+}
